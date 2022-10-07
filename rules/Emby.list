@@ -6,13 +6,35 @@
 # DOMAIN-SUFFIX: 33
 # IP-CIDR: 1
 # TOTAL: 38
+DOMAIN-SUFFIX,11pshare.tk
+DOMAIN-SUFFIX,404.sb
+DOMAIN-SUFFIX,bookpan.top
+DOMAIN-SUFFIX,embypaul.top
+IP-CIDR,124.95.187.106/32,no-resolve
+DOMAIN-SUFFIX,ccemby.tk
+DOMAIN-SUFFIX,infinityfly.top
+IP-CIDR,95.217.228.36/32,no-resolve
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,123emby.quest
+DOMAIN-SUFFIX,studyfun999.xyz
+DOMAIN-SUFFIX,dmesg.gq
+DOMAIN-SUFFIX,nijigem.by
+DOMAIN-SUFFIX,4545.cf
+DOMAIN-SUFFIX,jmsooo.com
+DOMAIN-SUFFIX,plusmedia.site
+DOMAIN-SUFFIX,ppooqq.top
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,blueseamusics.com
+DOMAIN-SUFFIX,bpking.top
+DOMAIN-SUFFIX,syq0806.ml 
 DOMAIN-SUFFIX,aaa.ax
 DOMAIN-SUFFIX,embyplus.club
 DOMAIN-SUFFIX,embymv.tk
 DOMAIN-SUFFIX,emby.kim
 DOMAIN-SUFFIX,emby.ml
-DOMAIN-SUFFIX,emby-pub1.blueseacdn.com
+DOMAIN-SUFFIX,blueseacdn.com
 DOMAIN-SUFFIX,pornemby.club
+DOMAIN-SUFFIX,pornemby.xyz
 DOMAIN-SUFFIX,mjjemby.net
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,plusmedia.site
