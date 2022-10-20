@@ -127,3 +127,6 @@ DOMAIN-SUFFIX,xauat6.edu.cn
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
+
+##盒子官网
+DOMAIN-SUFFIX,hetzner.com
